@@ -76,10 +76,63 @@ HTML boiler plate :
                         <center></center>   ->content at center 
                         <marquee></marquee> ->to scroll in different direction
 
+
                 
 
 
-        2. Unpaired tags/self closing tags 
+    2. Unpaired tags/self closing tags 
+    ->Any Tags having only opening tags 
+            Ex: 
+            <br> , <hr>, <img> , <col>, <input> ,<meta> ..etc 
 
 
+Attribute : 
+-----------
+    ->Attribute are the additional information given to the tags 
+    ->Attributes are always in opening 
+
+    Ex: 
+        <h1 align="center" id="heading"> </h1> 
+         or 
+        <img src="" alt="" height="" width="">
+
+
+HTML Elements : 
+----------- 
+    ->opening , closing tag and the content together is called HTML Elements 
+
+    Ex: <h1> Heading </h1>
+        <p> ---------- </p>
+
+
+Form tags : 
+-----------
+    <form></form>
+    <fieldset></fieldset>
+    <legend></legend>     
+    <label> </label>    
+    <input> 
+    <textarea> </textarea>  
+    <button></button>  
+    <select></select>
+
+
+
+
+JOB APPLICATION FORM : 
+----------------------
+    1. First Name 
+    2. Last Name 
+    3. Email
+    4. Phone
+    5. Gender
+    6. College Name 
+    8. State   -> 5 states 
+    7. Address 
+    9. Skills  ->java spring boot , API Integration , Postmen , SQL , MYSQL , React 
+    10. Language -> English , Telugu , Kannada , Hindi 
+    11. Resume  
+    
+
+       
 
